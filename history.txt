@@ -1,0 +1,198 @@
+    1  svn co http://code.djangoproject.com/svn/django/trunk/ django-trunk
+    2  sudo pip install Django
+    3  sudo pip install Django
+    4  $ curl -0 https://raw.github.com/pypa/virtualenv/master/virtualenv.py
+    5  ln -s `pwd`/django-trunk/django /path/to/python_site_packages/django
+    6  ln -s 'pwd' /django-trunk/django /path/to/python_site_packages/django
+    7  python -c "from distutils.sysconfig import get_python_lib; print get_python_lib()"
+    8  ln -s `pwd`/path/to/django-trunk/django/bin/django-admin.py /usr/local/bin
+    9  ln -s `pwd`/path/to/django-trunk/django/bin/django-admin.py /usr/local/bin
+   10  ls
+   11  cd
+   12  cd /
+   13  ls
+   14  cd ~/sites/dev
+   15  cd ~/RG
+   16  ls
+   17  ~
+   18  ls
+   19  cd /
+   20  ls
+   21  cd ~/sites/dev
+   22  python /path/to/django-trunk/django/bin/django-admin.py startproject djangoblog
+   23  python /path/to/django-trunk/django/bin/django-admin.py startproject djangoblog
+   24  dc
+   25  ls
+   26  cd /
+   27  cd ~/dev
+   28  ls
+   29  dev
+   30  /dev
+   31  cd ~/sites
+   32  cd ~/sites/dev/djangoblog
+   33  python /path/to/django-trunk/django/bin/django-admin.py startproject djangoblog
+   34  sites/
+   35  cd ~/sites
+   36  cd ~/sites/dev
+   37  python /path/to/django-trunk/django/bin/django-admin.py startproject djangoblog
+   38  python /path/to/django-trunk/django/bin/django-admin.py startproject djangoblog
+   39  cd ~/sites
+   40  import myapp
+   41  ln -s `pwd`/path/to/django-trunk/django/bin/django-admin.py /usr/local/bin
+   42  cd ~/cd
+   43  cd ~/ryangraves
+   44  ls
+   45  dev
+   46  -bash
+   47  rm dev
+   48  rm sites/dev
+   49  cd /
+   50  ls
+   51  python -c "from distutils.sysconfig import get_python_lib; print get_python_lib()"
+   52  ln -s `pwd`/path/to/django-trunk/django/bin/django-admin.py /usr/local/bin
+   53  cd /sites/dev
+   54  python /path/to/django-trunk/django/bin/django-admin.py startproject djangoblog
+   55  cd ..
+   56  ls
+   57  pwd
+   58  man ls
+   59  ln -s 'pwd' /path/to/django-trunk/django/bin/django-admin.py /usr/local/bin
+   60  cd ~/sites/dev/
+   61  python /path/to/django-trunk/django/bin/django-admin.py startproject djangoblog
+   62  cd ~/sites/dev/djangoblog
+   63  cd /
+   64  python
+   65  exit() cd /
+   66  ls
+   67  nin
+   68  cd ~/bin
+   69  bin
+   70  cd ~/dev
+   71  cd ~/dev/
+   72  cd ~/sites/dev
+   73  python /path/to/django-trunk/django/bin/django-admin.py startproject djangoblog
+   74  cd ~/django-trunk/sites
+   75  python /path/to/django-trunk/djnago/bin/django-admin.py startproject djangoblog
+   76  cd /
+   77  cd ~/dev/
+   78  python /path/to/django-trunk/django/bin/django-admin.py startproject djangoblog
+   79  ln -s `pwd`/django-trunk/django /path/to/python_site_packages/django
+   80  cd /
+   81  svn co http://code.djangoproject.com/svn/django/trunk/ django-trunk
+   82  cd/
+   83  ls
+   84  hom
+   85  home
+   86  home ~
+   87  gem
+   88  gem instal heroku
+   89  gem install heroku
+   90  sudo gem install heroku
+   91  mkdir Code
+   92  pwd
+   93  cd ~
+   94  pwd
+   95  mkdir Code
+   96  cd Code/
+   97  pwd
+   98  vi main.html
+   99  git
+  100  pwd
+  101  ls
+  102  mkdir hang
+  103  ls
+  104  mv main.html hang/
+  105  cd hang
+  106  ls
+  107   git config --global user.name "Ryan Graves"
+  108    git config --global user.email graves.ryan@gmail.com
+  109  cd..
+  110  cd ..
+  111  cd -
+  112  git init
+  113  touch README
+  114  git add README
+  115  git status
+  116  git commit -m 'first commit'
+  117    git remote add origin git@github.com:ryangraves/hang.git
+  118  git push -u origin master
+  119  git push -u origin master
+  120  cd ~/.ssh
+  121  ls
+  122  ssh-keygne -t rsa -C "graves.ryan@gmail.com"
+  123  ssh-keygen -t rsa -C "graves.ryan@gmail.com"
+  124  ls
+  125  open id_rsa.pub
+  126  mate id_rsa.pub
+  127  cd -
+  128  git push -u origin master
+  129  git add main.html 
+  130  git status
+  131  git commit
+  132  git push
+  133  mate main.html
+  134  git add main.html 
+  135  git status
+  136  git diff --cached
+  137  git commit -m "added p tag"
+  138  git push
+  139  git statu
+  140  git status
+  141  heroku
+  142  heroku login
+  143  mate .gems
+  144  mate config.ru
+  145  mate main.rb
+  146  mate main.rb
+  147  ls
+  148  mate main.html
+  149  git status
+  150  git rm main.html
+  151  -f
+  152  git rm -f  main.html
+  153  git add .
+  154  git status
+  155  get status
+  156  git status
+  157  git commit -m "setting up sinatra env" 
+  158  git push
+  159  heroku create --stack cedar
+  160  git push heroku
+  161  git push heroku master
+  162  git branch
+  163  heroku
+  164  heroku config
+  165  git remote
+  166  git push heroku
+  167  git push heroku master
+  168  mate Gemfile
+  169  bundle install
+  170  gem install bundle
+  171  sudo gem install bundle
+  172  bundle install
+  173  git add .
+  174  git commit -m "adding gemfile (similar to .gems, but for ruby)"
+  175  git push heroku master
+  176  git push origin
+  177  gem install twitter
+  178  sudo gem install twitter
+  179  irb
+  180  mate main.rb 
+  181  mate .gems
+  182  mate gemfile
+  183  ls
+  184  mate Gemfile
+  185  get status
+  186  git status
+  187  git add .
+  188  git status
+  189  git commit
+  190  git push heroku master
+  191  bundle install
+  192  git status
+  193  git push heroku master
+  194  git add .
+  195  git commit -m "fixing gem file, me thinks"
+  196  git push heroku
+  197  history
+  198  history > history.txt
