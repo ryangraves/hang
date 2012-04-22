@@ -1,6 +1,7 @@
 require 'rubygems'
 require 'sinatra'
+require 'twitter'
 
 get '/' do
-  'hello world'
+  Twitter.user_timeline("ryangraves").first.text
 end
